@@ -2,7 +2,7 @@
 
 
 ## License
-This project uses data under the [CC BY-NC-ND License](https://creativecommons.org/licenses/by-nc-nd/4.0/). The data may be used for non-commercial purposes only, and **redistribution** or **modification** of the data is prohibited. if you need this data for your project/usecase you need to download the data directly from the official source:
+This project uses data under modified version of  [CC BY-NC-ND License](https://creativecommons.org/licenses/by-nc-nd/4.0/). The data may be used for non-commercial purposes only within this project, and **redistribution** or **modification** of the data is prohibited. if you need this data for your project/usecase you need to download the data directly from the official source:
 
 All copyrights to @ 
 [National GeoPortal - Administrative Boundary Data](https://nationalgeoportal.gov.np/#/metadata/96)
